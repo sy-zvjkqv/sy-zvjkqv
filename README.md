@@ -1,9 +1,9 @@
 ### Hi there 👋
 I'm Syuntaro Ohnishi.
  - Master's student at Nara Institute of Science and Technology (NAIST)
-  - Majoring Information Science, Social Computing, Network Science and Natural Language Processing
+   - Majoring Information Science, Social Computing, Network Science and Natural Language Processing
  - Bachelor's degree in Niigata University
-  - Majored　Generative Adversarial Network (GAN) and Differential volution
+   - Majored　Generative Adversarial Network (GAN) and Differential volution
 <!--
 **sy-zvjkqv/sy-zvjkqv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

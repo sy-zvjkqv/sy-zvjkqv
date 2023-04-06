@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Shuntaro Ohnishi.
- year master's degree.
+ 2nd year master's degree.
  - Master's student at Nara Institute of Science and Technology (NAIST)
    - Majoring Information Science, Social Computing, Network Science and Natural Language Processing
  - Bachelor's degree in Niigata University

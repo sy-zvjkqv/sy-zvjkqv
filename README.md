@@ -2,6 +2,7 @@
  2nd year master's degree.
  - Master's student at NAra Institute of Science and Technology (NAIST)
    - Majoring Information Science, Social Computing, Network Science and Natural Language Processing
+   - Research on Geotagged Tweets (location information Tweets)
  - Bachelor's degree in Niigata University
    - Majored Generative Adversarial Network (GAN) and Differential Evolution
    

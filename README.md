@@ -1,9 +1,9 @@
 ### Hi 👋, I'm Shuntaro Ohnishi.
 
-## Work
+#### Work
  - Consulting company in Tokyo Akasaka - 2024 ~ present
     - Post: Data Science Analyst
-## Education
+#### Education
  - Master's student at NAra Institute of Science and Technology (NAIST) - 2022 ~ 2024
    - Majoring Information Science, Social Computing, Network Science and Natural Language Processing
    - Research on Geotagged Tweets (location information Tweets)

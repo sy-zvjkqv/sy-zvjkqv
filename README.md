@@ -1,9 +1,9 @@
 ### Hi 👋, I'm Shuntaro Ohnishi.
- - Data Science Analyst in Accenture, 2024 ~ present
- - Master's student at NAra Institute of Science and Technology (NAIST), 2022 ~ 2024
+ - Data Science Analyst in Accenture - 2024 ~ present
+ - Master's student at NAra Institute of Science and Technology (NAIST) - 2022 ~ 2024
    - Majoring Information Science, Social Computing, Network Science and Natural Language Processing
    - Research on Geotagged Tweets (location information Tweets)
- - Bachelor's degree in Niigata University, 2018 ~ 2022
+ - Bachelor's degree in Niigata University - 2018 ~ 2022
    - Majored Generative Adversarial Network (GAN) and Differential Evolution
    
 <h3 align="left">Languages and Tools:</h3>

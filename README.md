@@ -2,7 +2,7 @@
 
 ## Work
  - Consulting company in Tokyo Akasaka - 2024 ~ present
-    - Data Science Analyst
+    - Post: Data Science Analyst
 ## Education
  - Master's student at NAra Institute of Science and Technology (NAIST) - 2022 ~ 2024
    - Majoring Information Science, Social Computing, Network Science and Natural Language Processing
